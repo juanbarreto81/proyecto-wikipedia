@@ -1,0 +1,25 @@
+body{
+
+    background-color:grey;
+}
+
+h1{ 
+    color: rgb(24, 24, 54);
+    text-decoration: underline;
+    border-color:red;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h2{
+    color: whitesmoke;
+    text-decoration: underline;
+}
+li {
+    color: black;
+
+}
+a{
+    color:rgb(156, 6, 6);
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    font-weight: 500;
+}
